@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858869974955",
+    "project_id": "tubesai-5cc34",
+    "storage_bucket": "tubesai-5cc34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858869974955:android:c0788cf5d68c9c9a1df4ee",
+        "android_client_info": {
+          "package_name": "com.example.tubes_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBmHt0hQ2aImgExG3Z57cceYOTJC3hN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

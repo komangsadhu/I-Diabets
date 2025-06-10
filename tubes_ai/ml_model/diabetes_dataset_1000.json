@@ -1,0 +1,7002 @@
+[
+  {
+    "age": 58,
+    "bmi": 17.8,
+    "glucose": 166.4,
+    "bp": 74.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 33.4,
+    "glucose": 158.0,
+    "bp": 113.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 29.8,
+    "glucose": 74.1,
+    "bp": 65.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 27.6,
+    "glucose": 73.4,
+    "bp": 71.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 32.5,
+    "glucose": 124.5,
+    "bp": 87.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 35.2,
+    "glucose": 70.8,
+    "bp": 108.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 25.6,
+    "glucose": 106.1,
+    "bp": 72.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 23.4,
+    "glucose": 82.1,
+    "bp": 65.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 23.6,
+    "glucose": 104.4,
+    "bp": 62.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 28.4,
+    "glucose": 196.5,
+    "bp": 82.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 22.3,
+    "glucose": 151.7,
+    "bp": 113.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 29.4,
+    "glucose": 161.6,
+    "bp": 62.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 34.3,
+    "glucose": 198.1,
+    "bp": 111.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 73,
+    "bmi": 17.5,
+    "glucose": 106.1,
+    "bp": 98.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 19.1,
+    "glucose": 116.2,
+    "bp": 100.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 38.4,
+    "glucose": 154.2,
+    "bp": 96.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 28.4,
+    "glucose": 101.8,
+    "bp": 87.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 39.7,
+    "glucose": 153.2,
+    "bp": 93.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 23.1,
+    "glucose": 169.9,
+    "bp": 63.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 15.8,
+    "glucose": 111.0,
+    "bp": 76.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 37.8,
+    "glucose": 143.7,
+    "bp": 103.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 31.4,
+    "glucose": 121.4,
+    "bp": 114.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 18.6,
+    "glucose": 88.2,
+    "bp": 104.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 21.6,
+    "glucose": 146.0,
+    "bp": 113.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 24.0,
+    "glucose": 199.7,
+    "bp": 68.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 17.3,
+    "glucose": 76.1,
+    "bp": 66.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 19.0,
+    "glucose": 158.5,
+    "bp": 95.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 24.5,
+    "glucose": 199.5,
+    "bp": 91.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 28.8,
+    "glucose": 192.5,
+    "bp": 100.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 32.0,
+    "glucose": 139.8,
+    "bp": 76.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 23.5,
+    "glucose": 108.2,
+    "bp": 69.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 38.8,
+    "glucose": 183.9,
+    "bp": 75.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 34.0,
+    "glucose": 136.0,
+    "bp": 66.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 22.5,
+    "glucose": 153.1,
+    "bp": 96.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 24.3,
+    "glucose": 91.0,
+    "bp": 117.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 28.3,
+    "glucose": 70.1,
+    "bp": 79.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 17.8,
+    "glucose": 117.2,
+    "bp": 119.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 22.7,
+    "glucose": 77.5,
+    "bp": 112.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 17.0,
+    "glucose": 165.1,
+    "bp": 109.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 34.0,
+    "glucose": 169.6,
+    "bp": 67.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 38.7,
+    "glucose": 91.5,
+    "bp": 91.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 25.6,
+    "glucose": 97.5,
+    "bp": 92.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 32.2,
+    "glucose": 162.7,
+    "bp": 83.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 31.2,
+    "glucose": 127.0,
+    "bp": 91.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 21.2,
+    "glucose": 78.3,
+    "bp": 61.3,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 20.8,
+    "glucose": 98.6,
+    "bp": 64.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 16.5,
+    "glucose": 78.8,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 16.8,
+    "glucose": 100.9,
+    "bp": 100.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 28.5,
+    "glucose": 164.0,
+    "bp": 112.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 26.8,
+    "glucose": 172.0,
+    "bp": 108.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 17.4,
+    "glucose": 155.7,
+    "bp": 81.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 26.7,
+    "glucose": 164.8,
+    "bp": 100.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 31.2,
+    "glucose": 77.9,
+    "bp": 103.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 36.5,
+    "glucose": 102.3,
+    "bp": 71.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 18.5,
+    "glucose": 93.9,
+    "bp": 87.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 73,
+    "bmi": 38.1,
+    "glucose": 127.6,
+    "bp": 111.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 17.4,
+    "glucose": 154.8,
+    "bp": 92.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 39.2,
+    "glucose": 190.4,
+    "bp": 110.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 25.2,
+    "glucose": 132.6,
+    "bp": 111.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 16.5,
+    "glucose": 119.3,
+    "bp": 119.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 38.2,
+    "glucose": 172.1,
+    "bp": 77.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 38.9,
+    "glucose": 199.4,
+    "bp": 93.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 27.2,
+    "glucose": 94.7,
+    "bp": 73.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 29.5,
+    "glucose": 140.5,
+    "bp": 104.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 16.3,
+    "glucose": 132.0,
+    "bp": 115.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 18.9,
+    "glucose": 194.9,
+    "bp": 64.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 16.7,
+    "glucose": 78.8,
+    "bp": 111.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 18.0,
+    "glucose": 185.7,
+    "bp": 74.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 16.0,
+    "glucose": 80.7,
+    "bp": 99.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 28.1,
+    "glucose": 191.5,
+    "bp": 72.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 22.9,
+    "glucose": 104.5,
+    "bp": 67.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 22.5,
+    "glucose": 111.1,
+    "bp": 105.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 15.2,
+    "glucose": 150.8,
+    "bp": 93.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 16.8,
+    "glucose": 97.7,
+    "bp": 75.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 23.7,
+    "glucose": 78.9,
+    "bp": 74.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 18.9,
+    "glucose": 178.4,
+    "bp": 102.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 39.6,
+    "glucose": 174.9,
+    "bp": 91.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 35.4,
+    "glucose": 108.9,
+    "bp": 99.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 37.0,
+    "glucose": 104.4,
+    "bp": 113.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 28.8,
+    "glucose": 105.4,
+    "bp": 96.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 23.6,
+    "glucose": 159.4,
+    "bp": 111.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 27.2,
+    "glucose": 187.7,
+    "bp": 110.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 30.9,
+    "glucose": 177.8,
+    "bp": 62.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 34.3,
+    "glucose": 152.8,
+    "bp": 75.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 26.0,
+    "glucose": 161.7,
+    "bp": 93.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 16.9,
+    "glucose": 184.8,
+    "bp": 114.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 15.9,
+    "glucose": 118.0,
+    "bp": 93.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 18.2,
+    "glucose": 110.1,
+    "bp": 113.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 39.3,
+    "glucose": 75.2,
+    "bp": 81.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 21.2,
+    "glucose": 83.4,
+    "bp": 106.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 36.9,
+    "glucose": 196.6,
+    "bp": 105.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 38.2,
+    "glucose": 182.4,
+    "bp": 118.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 19.4,
+    "glucose": 123.6,
+    "bp": 70.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 23.3,
+    "glucose": 191.0,
+    "bp": 108.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 73,
+    "bmi": 33.4,
+    "glucose": 102.3,
+    "bp": 69.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 17.7,
+    "glucose": 183.4,
+    "bp": 111.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 20.0,
+    "glucose": 189.4,
+    "bp": 81.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 34.9,
+    "glucose": 99.6,
+    "bp": 61.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 25.0,
+    "glucose": 106.2,
+    "bp": 64.2,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 22.0,
+    "glucose": 153.4,
+    "bp": 84.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 36.1,
+    "glucose": 113.0,
+    "bp": 61.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 39.3,
+    "glucose": 93.2,
+    "bp": 117.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 16.0,
+    "glucose": 147.6,
+    "bp": 80.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 22.8,
+    "glucose": 148.8,
+    "bp": 90.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 37.5,
+    "glucose": 94.7,
+    "bp": 62.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 15.0,
+    "glucose": 190.3,
+    "bp": 92.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 38.5,
+    "glucose": 165.8,
+    "bp": 71.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 16.7,
+    "glucose": 156.4,
+    "bp": 79.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 31.6,
+    "glucose": 86.2,
+    "bp": 114.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 22.7,
+    "glucose": 123.1,
+    "bp": 84.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 28.9,
+    "glucose": 94.9,
+    "bp": 99.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 31.9,
+    "glucose": 187.4,
+    "bp": 96.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 25.2,
+    "glucose": 178.4,
+    "bp": 78.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 25.7,
+    "glucose": 145.4,
+    "bp": 99.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 26.0,
+    "glucose": 157.8,
+    "bp": 90.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 37.5,
+    "glucose": 173.5,
+    "bp": 70.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 22.1,
+    "glucose": 156.3,
+    "bp": 97.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 35.5,
+    "glucose": 167.6,
+    "bp": 100.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 35.2,
+    "glucose": 89.2,
+    "bp": 62.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 26.9,
+    "glucose": 180.5,
+    "bp": 64.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 37.2,
+    "glucose": 144.8,
+    "bp": 103.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 27.4,
+    "glucose": 101.7,
+    "bp": 99.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 37.3,
+    "glucose": 181.9,
+    "bp": 113.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 25.6,
+    "glucose": 92.9,
+    "bp": 117.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 26.6,
+    "glucose": 142.5,
+    "bp": 115.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 26.4,
+    "glucose": 174.2,
+    "bp": 100.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 29.9,
+    "glucose": 193.5,
+    "bp": 113.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 35.4,
+    "glucose": 186.0,
+    "bp": 85.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 28.7,
+    "glucose": 186.6,
+    "bp": 104.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 26.3,
+    "glucose": 167.7,
+    "bp": 110.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 34.1,
+    "glucose": 137.8,
+    "bp": 97.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 26.0,
+    "glucose": 162.8,
+    "bp": 74.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 23.0,
+    "glucose": 140.2,
+    "bp": 68.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 24.6,
+    "glucose": 89.9,
+    "bp": 72.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 25.2,
+    "glucose": 140.5,
+    "bp": 84.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 35.8,
+    "glucose": 120.6,
+    "bp": 106.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 32.4,
+    "glucose": 181.4,
+    "bp": 105.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 26.9,
+    "glucose": 192.6,
+    "bp": 77.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 36.3,
+    "glucose": 193.9,
+    "bp": 85.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 33.4,
+    "glucose": 174.0,
+    "bp": 113.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 20.5,
+    "glucose": 126.7,
+    "bp": 61.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 31.7,
+    "glucose": 173.8,
+    "bp": 103.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 26.7,
+    "glucose": 86.6,
+    "bp": 97.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 37.7,
+    "glucose": 146.9,
+    "bp": 99.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 31.1,
+    "glucose": 87.6,
+    "bp": 87.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 21.5,
+    "glucose": 112.6,
+    "bp": 87.3,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 34.0,
+    "glucose": 119.3,
+    "bp": 105.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 25.5,
+    "glucose": 178.5,
+    "bp": 88.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 28.5,
+    "glucose": 200.0,
+    "bp": 81.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 16.7,
+    "glucose": 194.4,
+    "bp": 62.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 38.7,
+    "glucose": 95.9,
+    "bp": 61.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 21.0,
+    "glucose": 131.6,
+    "bp": 66.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 20.4,
+    "glucose": 160.9,
+    "bp": 106.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 30.1,
+    "glucose": 195.3,
+    "bp": 103.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 35.5,
+    "glucose": 195.4,
+    "bp": 66.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 38.2,
+    "glucose": 144.9,
+    "bp": 114.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 24.9,
+    "glucose": 163.0,
+    "bp": 64.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 35.8,
+    "glucose": 101.6,
+    "bp": 101.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 36.3,
+    "glucose": 148.1,
+    "bp": 67.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 29.1,
+    "glucose": 75.3,
+    "bp": 92.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 24.3,
+    "glucose": 135.8,
+    "bp": 80.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 25.5,
+    "glucose": 133.7,
+    "bp": 86.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 30.9,
+    "glucose": 177.7,
+    "bp": 102.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 19.4,
+    "glucose": 137.8,
+    "bp": 99.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 35.2,
+    "glucose": 140.0,
+    "bp": 89.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 35.6,
+    "glucose": 147.0,
+    "bp": 79.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 35.8,
+    "glucose": 81.3,
+    "bp": 112.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 33.8,
+    "glucose": 144.1,
+    "bp": 100.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 15.7,
+    "glucose": 180.6,
+    "bp": 70.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 23.9,
+    "glucose": 103.6,
+    "bp": 76.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 32.5,
+    "glucose": 105.9,
+    "bp": 60.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 19.8,
+    "glucose": 101.4,
+    "bp": 84.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 34.0,
+    "glucose": 159.8,
+    "bp": 98.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 26.2,
+    "glucose": 72.2,
+    "bp": 77.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 32.3,
+    "glucose": 109.8,
+    "bp": 94.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 28.8,
+    "glucose": 114.7,
+    "bp": 119.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 23.3,
+    "glucose": 161.4,
+    "bp": 76.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 20.8,
+    "glucose": 163.8,
+    "bp": 78.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 28.4,
+    "glucose": 169.1,
+    "bp": 71.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 33.5,
+    "glucose": 105.9,
+    "bp": 95.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 28.1,
+    "glucose": 106.8,
+    "bp": 66.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 22.4,
+    "glucose": 116.9,
+    "bp": 78.1,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 28.4,
+    "glucose": 105.7,
+    "bp": 118.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 22.3,
+    "glucose": 192.7,
+    "bp": 98.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 27.3,
+    "glucose": 183.5,
+    "bp": 94.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 27.0,
+    "glucose": 114.3,
+    "bp": 117.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 38.5,
+    "glucose": 132.1,
+    "bp": 109.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 27.3,
+    "glucose": 145.0,
+    "bp": 101.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 18.7,
+    "glucose": 143.2,
+    "bp": 78.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 18.0,
+    "glucose": 169.4,
+    "bp": 96.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 30.5,
+    "glucose": 170.8,
+    "bp": 82.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 26.1,
+    "glucose": 181.8,
+    "bp": 119.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 29.2,
+    "glucose": 77.8,
+    "bp": 117.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 38.7,
+    "glucose": 97.0,
+    "bp": 72.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 17.0,
+    "glucose": 101.2,
+    "bp": 93.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 15.1,
+    "glucose": 128.6,
+    "bp": 95.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 15.8,
+    "glucose": 107.5,
+    "bp": 77.0,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 73,
+    "bmi": 26.4,
+    "glucose": 159.4,
+    "bp": 115.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 34.8,
+    "glucose": 146.7,
+    "bp": 108.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 25.6,
+    "glucose": 140.8,
+    "bp": 98.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 21.6,
+    "glucose": 88.5,
+    "bp": 63.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 22.7,
+    "glucose": 167.4,
+    "bp": 94.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 26.0,
+    "glucose": 130.9,
+    "bp": 78.2,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 38.6,
+    "glucose": 135.1,
+    "bp": 89.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 30.0,
+    "glucose": 185.6,
+    "bp": 104.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 21.3,
+    "glucose": 81.9,
+    "bp": 117.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 36.5,
+    "glucose": 146.3,
+    "bp": 61.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 31.8,
+    "glucose": 105.0,
+    "bp": 62.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 19.4,
+    "glucose": 137.5,
+    "bp": 86.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 19.5,
+    "glucose": 146.1,
+    "bp": 98.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 39.2,
+    "glucose": 131.1,
+    "bp": 84.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 31.8,
+    "glucose": 181.5,
+    "bp": 79.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 27.4,
+    "glucose": 156.1,
+    "bp": 84.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 28.8,
+    "glucose": 129.1,
+    "bp": 78.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 17.9,
+    "glucose": 170.4,
+    "bp": 111.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 39.7,
+    "glucose": 155.5,
+    "bp": 92.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 16.4,
+    "glucose": 137.4,
+    "bp": 97.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 30.6,
+    "glucose": 168.8,
+    "bp": 72.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 18.3,
+    "glucose": 107.4,
+    "bp": 112.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 18.0,
+    "glucose": 196.5,
+    "bp": 96.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 32.7,
+    "glucose": 110.4,
+    "bp": 60.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 17.3,
+    "glucose": 199.0,
+    "bp": 114.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 38.7,
+    "glucose": 154.2,
+    "bp": 69.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 32.9,
+    "glucose": 136.2,
+    "bp": 76.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 27.1,
+    "glucose": 131.4,
+    "bp": 87.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 24.6,
+    "glucose": 189.8,
+    "bp": 90.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 18.4,
+    "glucose": 79.1,
+    "bp": 106.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 25.4,
+    "glucose": 191.5,
+    "bp": 90.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 15.1,
+    "glucose": 164.4,
+    "bp": 110.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 40.0,
+    "glucose": 133.7,
+    "bp": 68.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 27.1,
+    "glucose": 113.2,
+    "bp": 105.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 26.4,
+    "glucose": 111.8,
+    "bp": 71.3,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 21.0,
+    "glucose": 119.8,
+    "bp": 111.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 16.1,
+    "glucose": 166.8,
+    "bp": 102.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 24.5,
+    "glucose": 198.5,
+    "bp": 107.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 39.5,
+    "glucose": 134.4,
+    "bp": 62.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 39.1,
+    "glucose": 113.2,
+    "bp": 66.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 26.0,
+    "glucose": 138.4,
+    "bp": 87.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 18.6,
+    "glucose": 183.2,
+    "bp": 118.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 26.7,
+    "glucose": 196.0,
+    "bp": 80.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 24.9,
+    "glucose": 80.4,
+    "bp": 79.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 36.5,
+    "glucose": 119.4,
+    "bp": 79.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 37.2,
+    "glucose": 133.4,
+    "bp": 92.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 16.7,
+    "glucose": 152.1,
+    "bp": 115.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 33.7,
+    "glucose": 126.4,
+    "bp": 65.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 32.6,
+    "glucose": 83.1,
+    "bp": 70.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 37.6,
+    "glucose": 76.0,
+    "bp": 107.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 24.0,
+    "glucose": 126.0,
+    "bp": 74.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 29.1,
+    "glucose": 173.0,
+    "bp": 70.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 30.2,
+    "glucose": 119.7,
+    "bp": 101.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 37.8,
+    "glucose": 88.6,
+    "bp": 87.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 26.5,
+    "glucose": 156.7,
+    "bp": 113.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 37.5,
+    "glucose": 158.1,
+    "bp": 69.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 38.6,
+    "glucose": 198.4,
+    "bp": 77.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 25.6,
+    "glucose": 102.5,
+    "bp": 110.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 40.0,
+    "glucose": 180.9,
+    "bp": 66.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 29.3,
+    "glucose": 144.7,
+    "bp": 119.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 15.5,
+    "glucose": 177.9,
+    "bp": 83.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 29.1,
+    "glucose": 159.2,
+    "bp": 104.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 37.8,
+    "glucose": 166.9,
+    "bp": 110.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 22.2,
+    "glucose": 173.9,
+    "bp": 96.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 20.5,
+    "glucose": 94.7,
+    "bp": 75.0,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 33.0,
+    "glucose": 155.7,
+    "bp": 110.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 17.4,
+    "glucose": 151.6,
+    "bp": 62.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 26.0,
+    "glucose": 145.3,
+    "bp": 103.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 37.7,
+    "glucose": 112.5,
+    "bp": 84.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 18.3,
+    "glucose": 140.1,
+    "bp": 118.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 27.5,
+    "glucose": 105.4,
+    "bp": 69.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 35.6,
+    "glucose": 132.6,
+    "bp": 108.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 36.8,
+    "glucose": 174.6,
+    "bp": 88.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 18.5,
+    "glucose": 195.6,
+    "bp": 111.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 31.9,
+    "glucose": 121.7,
+    "bp": 110.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 24.1,
+    "glucose": 172.8,
+    "bp": 60.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 18.1,
+    "glucose": 117.9,
+    "bp": 104.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 29.6,
+    "glucose": 176.9,
+    "bp": 116.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 31.9,
+    "glucose": 131.3,
+    "bp": 97.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 29.0,
+    "glucose": 189.0,
+    "bp": 73.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 30.9,
+    "glucose": 130.4,
+    "bp": 102.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 25.2,
+    "glucose": 88.2,
+    "bp": 116.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 39.9,
+    "glucose": 85.1,
+    "bp": 74.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 18.4,
+    "glucose": 129.0,
+    "bp": 100.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 32.4,
+    "glucose": 140.2,
+    "bp": 95.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 18.9,
+    "glucose": 123.9,
+    "bp": 65.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 30.4,
+    "glucose": 192.1,
+    "bp": 76.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 24.3,
+    "glucose": 127.6,
+    "bp": 117.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 24.1,
+    "glucose": 197.5,
+    "bp": 82.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 39.4,
+    "glucose": 116.6,
+    "bp": 83.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 39.2,
+    "glucose": 193.4,
+    "bp": 109.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 31.6,
+    "glucose": 153.4,
+    "bp": 95.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 16.3,
+    "glucose": 113.4,
+    "bp": 119.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 29.1,
+    "glucose": 78.9,
+    "bp": 105.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 29.7,
+    "glucose": 175.7,
+    "bp": 74.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 18.7,
+    "glucose": 187.1,
+    "bp": 60.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 39.6,
+    "glucose": 198.4,
+    "bp": 92.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 19.4,
+    "glucose": 155.9,
+    "bp": 61.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 24.0,
+    "glucose": 172.5,
+    "bp": 95.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 19.4,
+    "glucose": 76.8,
+    "bp": 104.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 17.8,
+    "glucose": 78.3,
+    "bp": 86.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 27.8,
+    "glucose": 84.2,
+    "bp": 90.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 30.4,
+    "glucose": 164.5,
+    "bp": 114.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 28.0,
+    "glucose": 129.5,
+    "bp": 117.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 40.0,
+    "glucose": 180.1,
+    "bp": 85.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 27.3,
+    "glucose": 188.3,
+    "bp": 64.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 23.1,
+    "glucose": 89.3,
+    "bp": 67.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 30.8,
+    "glucose": 141.3,
+    "bp": 79.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 28.3,
+    "glucose": 129.0,
+    "bp": 96.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 34.8,
+    "glucose": 84.9,
+    "bp": 99.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 34.2,
+    "glucose": 163.7,
+    "bp": 72.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 37.2,
+    "glucose": 123.8,
+    "bp": 109.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 25.4,
+    "glucose": 82.4,
+    "bp": 85.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 21.4,
+    "glucose": 194.0,
+    "bp": 101.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 16.7,
+    "glucose": 178.1,
+    "bp": 65.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 33.6,
+    "glucose": 118.4,
+    "bp": 67.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 29.7,
+    "glucose": 143.0,
+    "bp": 79.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 25.3,
+    "glucose": 183.6,
+    "bp": 116.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 36.7,
+    "glucose": 163.7,
+    "bp": 118.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 22.8,
+    "glucose": 83.5,
+    "bp": 90.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 31.4,
+    "glucose": 99.2,
+    "bp": 66.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 28.9,
+    "glucose": 84.9,
+    "bp": 76.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 35.2,
+    "glucose": 179.9,
+    "bp": 118.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 30.5,
+    "glucose": 157.7,
+    "bp": 93.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 38.2,
+    "glucose": 177.8,
+    "bp": 76.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 21.8,
+    "glucose": 169.1,
+    "bp": 115.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 15.2,
+    "glucose": 183.1,
+    "bp": 94.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 16.7,
+    "glucose": 166.3,
+    "bp": 118.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 33.7,
+    "glucose": 98.0,
+    "bp": 85.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 18.9,
+    "glucose": 110.5,
+    "bp": 79.5,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 29.2,
+    "glucose": 81.0,
+    "bp": 63.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 33.9,
+    "glucose": 76.5,
+    "bp": 64.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 31.5,
+    "glucose": 133.1,
+    "bp": 86.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 20.4,
+    "glucose": 136.6,
+    "bp": 80.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 22.1,
+    "glucose": 158.2,
+    "bp": 89.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 22.7,
+    "glucose": 98.7,
+    "bp": 119.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 15.2,
+    "glucose": 109.2,
+    "bp": 72.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 34.1,
+    "glucose": 107.6,
+    "bp": 67.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 33.7,
+    "glucose": 92.8,
+    "bp": 82.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 20.8,
+    "glucose": 142.6,
+    "bp": 100.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 16.8,
+    "glucose": 182.0,
+    "bp": 62.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 26.5,
+    "glucose": 80.1,
+    "bp": 78.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 29.3,
+    "glucose": 162.2,
+    "bp": 85.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 25.1,
+    "glucose": 195.6,
+    "bp": 70.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 30.5,
+    "glucose": 178.2,
+    "bp": 115.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 25.9,
+    "glucose": 83.8,
+    "bp": 86.1,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 28.1,
+    "glucose": 121.4,
+    "bp": 78.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 20.5,
+    "glucose": 171.3,
+    "bp": 64.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 17.9,
+    "glucose": 136.3,
+    "bp": 114.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 23.8,
+    "glucose": 194.6,
+    "bp": 98.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 20.9,
+    "glucose": 89.0,
+    "bp": 71.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 18.8,
+    "glucose": 168.7,
+    "bp": 64.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 34.3,
+    "glucose": 134.2,
+    "bp": 105.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 29.5,
+    "glucose": 158.5,
+    "bp": 112.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 30.9,
+    "glucose": 151.2,
+    "bp": 111.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 22.9,
+    "glucose": 127.2,
+    "bp": 88.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 22.6,
+    "glucose": 105.7,
+    "bp": 63.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 16.9,
+    "glucose": 130.0,
+    "bp": 62.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 35.8,
+    "glucose": 80.0,
+    "bp": 111.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 17.3,
+    "glucose": 147.2,
+    "bp": 83.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 28.9,
+    "glucose": 172.9,
+    "bp": 113.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 37.7,
+    "glucose": 144.3,
+    "bp": 71.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 26.9,
+    "glucose": 89.6,
+    "bp": 63.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 35.3,
+    "glucose": 178.9,
+    "bp": 118.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 27.6,
+    "glucose": 92.4,
+    "bp": 74.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 39.8,
+    "glucose": 138.1,
+    "bp": 96.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 24.3,
+    "glucose": 106.8,
+    "bp": 84.5,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 32.0,
+    "glucose": 76.8,
+    "bp": 97.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 16.6,
+    "glucose": 82.3,
+    "bp": 100.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 21.3,
+    "glucose": 180.7,
+    "bp": 117.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 36.8,
+    "glucose": 113.3,
+    "bp": 95.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 37.9,
+    "glucose": 110.3,
+    "bp": 99.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 24.8,
+    "glucose": 147.4,
+    "bp": 116.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 29.0,
+    "glucose": 153.7,
+    "bp": 79.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 31.8,
+    "glucose": 177.8,
+    "bp": 104.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 37.8,
+    "glucose": 82.1,
+    "bp": 100.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 24.0,
+    "glucose": 117.1,
+    "bp": 70.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 23.5,
+    "glucose": 169.6,
+    "bp": 71.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 18.9,
+    "glucose": 108.5,
+    "bp": 107.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 34.3,
+    "glucose": 178.6,
+    "bp": 113.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 31.5,
+    "glucose": 183.9,
+    "bp": 97.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 24.4,
+    "glucose": 91.1,
+    "bp": 109.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 30.6,
+    "glucose": 187.3,
+    "bp": 103.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 25.3,
+    "glucose": 157.9,
+    "bp": 74.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 30.3,
+    "glucose": 167.8,
+    "bp": 107.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 28.4,
+    "glucose": 110.2,
+    "bp": 108.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 37.6,
+    "glucose": 95.2,
+    "bp": 100.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 39.6,
+    "glucose": 130.0,
+    "bp": 76.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 27.6,
+    "glucose": 124.4,
+    "bp": 69.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 35.0,
+    "glucose": 88.0,
+    "bp": 75.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 27.0,
+    "glucose": 118.3,
+    "bp": 116.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 36.1,
+    "glucose": 180.7,
+    "bp": 77.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 19.0,
+    "glucose": 128.4,
+    "bp": 90.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 25.9,
+    "glucose": 193.0,
+    "bp": 73.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 37.1,
+    "glucose": 191.0,
+    "bp": 84.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 27.6,
+    "glucose": 100.7,
+    "bp": 119.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 20.6,
+    "glucose": 111.4,
+    "bp": 65.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 31.2,
+    "glucose": 172.9,
+    "bp": 68.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 37.9,
+    "glucose": 131.4,
+    "bp": 109.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 32.6,
+    "glucose": 128.3,
+    "bp": 60.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 15.5,
+    "glucose": 98.0,
+    "bp": 69.0,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 33.2,
+    "glucose": 138.6,
+    "bp": 66.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 20.9,
+    "glucose": 85.8,
+    "bp": 74.3,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 34.8,
+    "glucose": 129.4,
+    "bp": 66.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 27.5,
+    "glucose": 139.7,
+    "bp": 97.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 21.0,
+    "glucose": 88.7,
+    "bp": 85.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 23.8,
+    "glucose": 144.2,
+    "bp": 71.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 17.1,
+    "glucose": 196.7,
+    "bp": 64.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 28.6,
+    "glucose": 172.2,
+    "bp": 90.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 24.8,
+    "glucose": 131.1,
+    "bp": 98.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 24.3,
+    "glucose": 167.2,
+    "bp": 81.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 23.6,
+    "glucose": 165.3,
+    "bp": 97.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 29.5,
+    "glucose": 168.4,
+    "bp": 68.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 28.7,
+    "glucose": 175.8,
+    "bp": 70.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 32.1,
+    "glucose": 197.5,
+    "bp": 88.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 35.3,
+    "glucose": 78.2,
+    "bp": 106.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 15.9,
+    "glucose": 96.2,
+    "bp": 107.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 16.0,
+    "glucose": 191.3,
+    "bp": 90.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 28.6,
+    "glucose": 102.9,
+    "bp": 105.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 22.2,
+    "glucose": 182.1,
+    "bp": 62.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 23.3,
+    "glucose": 86.2,
+    "bp": 82.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 25.0,
+    "glucose": 127.2,
+    "bp": 117.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 39.3,
+    "glucose": 134.5,
+    "bp": 89.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 34.9,
+    "glucose": 104.7,
+    "bp": 65.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 17.0,
+    "glucose": 148.3,
+    "bp": 109.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 22.3,
+    "glucose": 83.3,
+    "bp": 79.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 22.7,
+    "glucose": 148.3,
+    "bp": 85.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 26.1,
+    "glucose": 128.1,
+    "bp": 103.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 23.8,
+    "glucose": 199.8,
+    "bp": 76.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 34.8,
+    "glucose": 77.5,
+    "bp": 100.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 24.1,
+    "glucose": 174.1,
+    "bp": 100.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 15.8,
+    "glucose": 180.3,
+    "bp": 100.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 15.9,
+    "glucose": 78.7,
+    "bp": 106.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 24.1,
+    "glucose": 193.4,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 32.0,
+    "glucose": 193.3,
+    "bp": 82.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 16.9,
+    "glucose": 87.9,
+    "bp": 82.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 31.2,
+    "glucose": 102.4,
+    "bp": 66.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 19.7,
+    "glucose": 137.3,
+    "bp": 114.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 21.5,
+    "glucose": 103.8,
+    "bp": 86.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 22.1,
+    "glucose": 189.1,
+    "bp": 89.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 18.4,
+    "glucose": 79.6,
+    "bp": 70.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 26.1,
+    "glucose": 81.4,
+    "bp": 100.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 39.7,
+    "glucose": 156.8,
+    "bp": 102.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 28.6,
+    "glucose": 185.9,
+    "bp": 111.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 32.7,
+    "glucose": 161.0,
+    "bp": 70.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 27.7,
+    "glucose": 85.8,
+    "bp": 72.1,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 20.9,
+    "glucose": 134.2,
+    "bp": 81.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 24.2,
+    "glucose": 174.5,
+    "bp": 93.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 37.1,
+    "glucose": 78.5,
+    "bp": 83.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 33.0,
+    "glucose": 138.3,
+    "bp": 106.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 29.4,
+    "glucose": 86.3,
+    "bp": 79.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 26.2,
+    "glucose": 158.4,
+    "bp": 80.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 35.7,
+    "glucose": 141.7,
+    "bp": 95.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 39.2,
+    "glucose": 126.2,
+    "bp": 114.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 35.8,
+    "glucose": 137.4,
+    "bp": 78.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 23.1,
+    "glucose": 162.2,
+    "bp": 80.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 28.0,
+    "glucose": 106.9,
+    "bp": 64.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 30.9,
+    "glucose": 141.6,
+    "bp": 67.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 30.4,
+    "glucose": 82.1,
+    "bp": 98.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 38.5,
+    "glucose": 90.0,
+    "bp": 99.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 37.6,
+    "glucose": 113.9,
+    "bp": 115.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 35.6,
+    "glucose": 73.7,
+    "bp": 62.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 34.3,
+    "glucose": 104.4,
+    "bp": 72.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 25.4,
+    "glucose": 153.1,
+    "bp": 89.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 28.6,
+    "glucose": 153.4,
+    "bp": 78.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 35.1,
+    "glucose": 159.0,
+    "bp": 77.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 32.2,
+    "glucose": 90.6,
+    "bp": 84.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 20.1,
+    "glucose": 148.9,
+    "bp": 78.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 23.0,
+    "glucose": 198.4,
+    "bp": 80.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 18.3,
+    "glucose": 118.2,
+    "bp": 93.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 21.0,
+    "glucose": 85.9,
+    "bp": 87.0,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 17.4,
+    "glucose": 107.7,
+    "bp": 83.0,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 25.5,
+    "glucose": 195.1,
+    "bp": 114.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 23.2,
+    "glucose": 145.1,
+    "bp": 78.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 19.0,
+    "glucose": 199.5,
+    "bp": 88.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 22.7,
+    "glucose": 73.0,
+    "bp": 116.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 26.4,
+    "glucose": 101.3,
+    "bp": 95.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 16.3,
+    "glucose": 134.3,
+    "bp": 112.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 31.8,
+    "glucose": 107.1,
+    "bp": 60.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 25.8,
+    "glucose": 184.7,
+    "bp": 103.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 25.1,
+    "glucose": 75.9,
+    "bp": 63.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 19.9,
+    "glucose": 141.9,
+    "bp": 64.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 26.3,
+    "glucose": 141.5,
+    "bp": 109.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 32.0,
+    "glucose": 85.4,
+    "bp": 118.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 24.3,
+    "glucose": 198.3,
+    "bp": 93.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 33.9,
+    "glucose": 95.9,
+    "bp": 90.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 16.0,
+    "glucose": 75.1,
+    "bp": 102.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 26.8,
+    "glucose": 129.4,
+    "bp": 96.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 18.5,
+    "glucose": 191.1,
+    "bp": 79.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 39.8,
+    "glucose": 166.1,
+    "bp": 78.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 27.7,
+    "glucose": 136.3,
+    "bp": 89.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 22.5,
+    "glucose": 176.0,
+    "bp": 82.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 17.7,
+    "glucose": 124.2,
+    "bp": 78.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 33.1,
+    "glucose": 159.4,
+    "bp": 61.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 21.6,
+    "glucose": 155.2,
+    "bp": 118.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 29.4,
+    "glucose": 163.8,
+    "bp": 95.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 28.1,
+    "glucose": 163.8,
+    "bp": 106.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 18.7,
+    "glucose": 158.5,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 32.5,
+    "glucose": 94.8,
+    "bp": 86.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 18.8,
+    "glucose": 159.8,
+    "bp": 84.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 30.3,
+    "glucose": 131.3,
+    "bp": 110.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 16.6,
+    "glucose": 88.0,
+    "bp": 72.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 40.0,
+    "glucose": 132.2,
+    "bp": 82.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 19.3,
+    "glucose": 188.6,
+    "bp": 80.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 31.9,
+    "glucose": 182.8,
+    "bp": 100.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 32.3,
+    "glucose": 149.3,
+    "bp": 71.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 22.0,
+    "glucose": 108.8,
+    "bp": 116.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 22.4,
+    "glucose": 107.6,
+    "bp": 72.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 27.2,
+    "glucose": 132.4,
+    "bp": 93.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 34.9,
+    "glucose": 105.5,
+    "bp": 67.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 28.6,
+    "glucose": 186.4,
+    "bp": 83.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 38.9,
+    "glucose": 174.6,
+    "bp": 77.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 38.9,
+    "glucose": 80.3,
+    "bp": 115.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 21.4,
+    "glucose": 132.3,
+    "bp": 72.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 21.8,
+    "glucose": 143.1,
+    "bp": 76.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 30.4,
+    "glucose": 146.3,
+    "bp": 74.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 37.6,
+    "glucose": 99.3,
+    "bp": 74.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 25.3,
+    "glucose": 163.3,
+    "bp": 66.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 18.4,
+    "glucose": 195.4,
+    "bp": 118.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 25.2,
+    "glucose": 191.6,
+    "bp": 112.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 31.3,
+    "glucose": 168.3,
+    "bp": 77.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 31.1,
+    "glucose": 188.0,
+    "bp": 65.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 20.8,
+    "glucose": 166.0,
+    "bp": 111.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 37.8,
+    "glucose": 92.8,
+    "bp": 112.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 38.3,
+    "glucose": 74.7,
+    "bp": 110.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 27.4,
+    "glucose": 191.8,
+    "bp": 117.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 22.2,
+    "glucose": 74.9,
+    "bp": 77.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 17.7,
+    "glucose": 197.8,
+    "bp": 77.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 28.6,
+    "glucose": 134.2,
+    "bp": 116.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 27.6,
+    "glucose": 105.5,
+    "bp": 108.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 19.1,
+    "glucose": 129.7,
+    "bp": 75.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 15.4,
+    "glucose": 113.8,
+    "bp": 77.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 33.9,
+    "glucose": 92.8,
+    "bp": 111.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 25.1,
+    "glucose": 125.6,
+    "bp": 79.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 31.7,
+    "glucose": 94.0,
+    "bp": 68.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 38.4,
+    "glucose": 70.9,
+    "bp": 83.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 33.8,
+    "glucose": 194.0,
+    "bp": 78.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 29.3,
+    "glucose": 104.0,
+    "bp": 81.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 16.6,
+    "glucose": 85.4,
+    "bp": 78.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 32.2,
+    "glucose": 190.0,
+    "bp": 113.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 22.8,
+    "glucose": 85.3,
+    "bp": 115.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 24.2,
+    "glucose": 98.7,
+    "bp": 117.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 18.8,
+    "glucose": 167.2,
+    "bp": 96.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 32.5,
+    "glucose": 188.7,
+    "bp": 105.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 31.6,
+    "glucose": 98.4,
+    "bp": 74.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 29.9,
+    "glucose": 172.4,
+    "bp": 91.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 32.6,
+    "glucose": 80.2,
+    "bp": 93.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 35.7,
+    "glucose": 187.4,
+    "bp": 72.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 18.7,
+    "glucose": 112.7,
+    "bp": 91.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 32.0,
+    "glucose": 163.2,
+    "bp": 89.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 27.8,
+    "glucose": 175.1,
+    "bp": 87.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 25.4,
+    "glucose": 143.3,
+    "bp": 93.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 35.2,
+    "glucose": 164.0,
+    "bp": 83.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 15.1,
+    "glucose": 98.3,
+    "bp": 64.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 23.6,
+    "glucose": 78.3,
+    "bp": 119.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 37.4,
+    "glucose": 198.2,
+    "bp": 88.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 25.2,
+    "glucose": 170.0,
+    "bp": 105.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 33.2,
+    "glucose": 195.3,
+    "bp": 82.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 24.6,
+    "glucose": 183.1,
+    "bp": 114.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 17.0,
+    "glucose": 195.3,
+    "bp": 112.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 31.3,
+    "glucose": 115.2,
+    "bp": 70.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 24.8,
+    "glucose": 86.6,
+    "bp": 118.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 15.1,
+    "glucose": 73.0,
+    "bp": 77.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 33.0,
+    "glucose": 125.1,
+    "bp": 82.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 21.2,
+    "glucose": 115.0,
+    "bp": 76.5,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 36.9,
+    "glucose": 169.5,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 25.5,
+    "glucose": 169.6,
+    "bp": 113.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 21.0,
+    "glucose": 78.7,
+    "bp": 95.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 29.9,
+    "glucose": 161.4,
+    "bp": 62.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 16.1,
+    "glucose": 127.1,
+    "bp": 92.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 36.6,
+    "glucose": 77.3,
+    "bp": 90.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 20.9,
+    "glucose": 189.1,
+    "bp": 94.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 29.9,
+    "glucose": 157.4,
+    "bp": 79.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 36.9,
+    "glucose": 198.1,
+    "bp": 91.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 22.5,
+    "glucose": 77.9,
+    "bp": 116.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 33.4,
+    "glucose": 92.8,
+    "bp": 100.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 27.4,
+    "glucose": 196.4,
+    "bp": 116.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 24.5,
+    "glucose": 138.2,
+    "bp": 101.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 18.7,
+    "glucose": 118.9,
+    "bp": 105.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 21.0,
+    "glucose": 99.3,
+    "bp": 111.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 35.1,
+    "glucose": 188.9,
+    "bp": 93.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 25.4,
+    "glucose": 138.9,
+    "bp": 83.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 20.1,
+    "glucose": 154.1,
+    "bp": 115.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 24.3,
+    "glucose": 139.6,
+    "bp": 109.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 21.7,
+    "glucose": 157.6,
+    "bp": 96.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 73,
+    "bmi": 16.8,
+    "glucose": 174.6,
+    "bp": 95.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 29.0,
+    "glucose": 132.3,
+    "bp": 112.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 22.6,
+    "glucose": 188.2,
+    "bp": 72.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 39.1,
+    "glucose": 85.3,
+    "bp": 120.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 37.9,
+    "glucose": 160.4,
+    "bp": 102.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 37.9,
+    "glucose": 141.8,
+    "bp": 106.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 26.7,
+    "glucose": 154.3,
+    "bp": 78.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 27.8,
+    "glucose": 134.6,
+    "bp": 65.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 33.1,
+    "glucose": 169.0,
+    "bp": 79.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 24.3,
+    "glucose": 123.8,
+    "bp": 93.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 33.5,
+    "glucose": 72.1,
+    "bp": 93.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 29.5,
+    "glucose": 124.3,
+    "bp": 69.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 20.8,
+    "glucose": 144.1,
+    "bp": 74.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 31.4,
+    "glucose": 159.0,
+    "bp": 75.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 27.2,
+    "glucose": 164.1,
+    "bp": 104.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 19.2,
+    "glucose": 173.3,
+    "bp": 70.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 28.7,
+    "glucose": 93.9,
+    "bp": 113.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 38.9,
+    "glucose": 138.1,
+    "bp": 110.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 38.6,
+    "glucose": 156.9,
+    "bp": 105.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 18.4,
+    "glucose": 152.0,
+    "bp": 64.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 15.2,
+    "glucose": 135.7,
+    "bp": 82.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 30.9,
+    "glucose": 191.4,
+    "bp": 114.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 27.2,
+    "glucose": 70.9,
+    "bp": 93.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 15.4,
+    "glucose": 163.9,
+    "bp": 92.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 15.4,
+    "glucose": 175.7,
+    "bp": 100.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 38.5,
+    "glucose": 93.3,
+    "bp": 115.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 18.7,
+    "glucose": 95.0,
+    "bp": 91.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 23.9,
+    "glucose": 173.3,
+    "bp": 64.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 25.2,
+    "glucose": 143.5,
+    "bp": 119.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 22.5,
+    "glucose": 177.6,
+    "bp": 64.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 31.2,
+    "glucose": 74.1,
+    "bp": 84.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 28.8,
+    "glucose": 77.3,
+    "bp": 60.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 17.1,
+    "glucose": 179.9,
+    "bp": 98.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 29.1,
+    "glucose": 181.5,
+    "bp": 65.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 38.0,
+    "glucose": 99.9,
+    "bp": 114.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 37.2,
+    "glucose": 131.8,
+    "bp": 62.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 32.1,
+    "glucose": 106.4,
+    "bp": 92.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 15.8,
+    "glucose": 190.7,
+    "bp": 78.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 20.2,
+    "glucose": 88.7,
+    "bp": 109.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 25.0,
+    "glucose": 80.0,
+    "bp": 69.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 29.2,
+    "glucose": 180.4,
+    "bp": 100.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 23.3,
+    "glucose": 168.2,
+    "bp": 68.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 33.1,
+    "glucose": 135.1,
+    "bp": 118.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 17.4,
+    "glucose": 100.2,
+    "bp": 64.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 34.2,
+    "glucose": 194.1,
+    "bp": 83.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 23.2,
+    "glucose": 152.4,
+    "bp": 107.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 27.3,
+    "glucose": 116.3,
+    "bp": 116.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 19.6,
+    "glucose": 146.2,
+    "bp": 82.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 30.5,
+    "glucose": 173.7,
+    "bp": 102.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 21.7,
+    "glucose": 119.4,
+    "bp": 107.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 33.5,
+    "glucose": 111.2,
+    "bp": 66.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 38.6,
+    "glucose": 127.8,
+    "bp": 105.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 18.3,
+    "glucose": 94.4,
+    "bp": 86.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 27.8,
+    "glucose": 83.4,
+    "bp": 65.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 17.3,
+    "glucose": 147.7,
+    "bp": 79.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 15.3,
+    "glucose": 123.8,
+    "bp": 106.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 37.5,
+    "glucose": 187.7,
+    "bp": 118.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 28.0,
+    "glucose": 159.1,
+    "bp": 70.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 22.5,
+    "glucose": 134.1,
+    "bp": 63.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 21.9,
+    "glucose": 109.0,
+    "bp": 107.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 21.3,
+    "glucose": 102.1,
+    "bp": 97.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 30.4,
+    "glucose": 129.5,
+    "bp": 68.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 38.7,
+    "glucose": 113.2,
+    "bp": 97.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 36.6,
+    "glucose": 127.2,
+    "bp": 85.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 36.5,
+    "glucose": 196.6,
+    "bp": 68.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 30.1,
+    "glucose": 160.4,
+    "bp": 88.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 39.1,
+    "glucose": 195.9,
+    "bp": 77.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 30.8,
+    "glucose": 195.8,
+    "bp": 106.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 24.4,
+    "glucose": 176.1,
+    "bp": 83.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 38.3,
+    "glucose": 96.0,
+    "bp": 119.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 32.0,
+    "glucose": 141.5,
+    "bp": 117.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 38.6,
+    "glucose": 97.3,
+    "bp": 107.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 32.3,
+    "glucose": 176.5,
+    "bp": 107.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 31.8,
+    "glucose": 88.1,
+    "bp": 78.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 31.5,
+    "glucose": 163.0,
+    "bp": 107.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 26.2,
+    "glucose": 147.7,
+    "bp": 94.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 27.7,
+    "glucose": 189.7,
+    "bp": 101.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 15.9,
+    "glucose": 195.9,
+    "bp": 102.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 28.4,
+    "glucose": 153.0,
+    "bp": 65.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 21.2,
+    "glucose": 156.4,
+    "bp": 70.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 16.1,
+    "glucose": 197.9,
+    "bp": 100.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 39.2,
+    "glucose": 113.1,
+    "bp": 107.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 15.3,
+    "glucose": 103.6,
+    "bp": 90.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 28.9,
+    "glucose": 159.4,
+    "bp": 73.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 24.8,
+    "glucose": 170.4,
+    "bp": 95.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 18.8,
+    "glucose": 199.7,
+    "bp": 89.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 25.4,
+    "glucose": 195.0,
+    "bp": 67.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 33.3,
+    "glucose": 115.3,
+    "bp": 80.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 20.2,
+    "glucose": 132.8,
+    "bp": 88.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 33.0,
+    "glucose": 128.8,
+    "bp": 64.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 35.3,
+    "glucose": 85.0,
+    "bp": 111.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 17.7,
+    "glucose": 174.0,
+    "bp": 115.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 21.1,
+    "glucose": 92.7,
+    "bp": 69.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 25.7,
+    "glucose": 130.1,
+    "bp": 107.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 19.6,
+    "glucose": 153.3,
+    "bp": 85.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 33.4,
+    "glucose": 184.8,
+    "bp": 87.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 24.7,
+    "glucose": 161.6,
+    "bp": 72.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 32.6,
+    "glucose": 173.5,
+    "bp": 94.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 36.8,
+    "glucose": 94.3,
+    "bp": 79.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 17.8,
+    "glucose": 157.2,
+    "bp": 89.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 31.0,
+    "glucose": 147.6,
+    "bp": 96.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 17.9,
+    "glucose": 115.8,
+    "bp": 87.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 35.3,
+    "glucose": 161.8,
+    "bp": 77.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 29.8,
+    "glucose": 157.4,
+    "bp": 78.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 22.6,
+    "glucose": 93.8,
+    "bp": 101.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 24.7,
+    "glucose": 147.5,
+    "bp": 94.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 19.6,
+    "glucose": 152.6,
+    "bp": 101.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 38.3,
+    "glucose": 92.5,
+    "bp": 70.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 18.5,
+    "glucose": 110.9,
+    "bp": 87.1,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 36.6,
+    "glucose": 193.7,
+    "bp": 89.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 35.4,
+    "glucose": 195.3,
+    "bp": 90.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 25.2,
+    "glucose": 133.9,
+    "bp": 102.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 27.2,
+    "glucose": 80.7,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 20.5,
+    "glucose": 74.3,
+    "bp": 73.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 19.2,
+    "glucose": 129.5,
+    "bp": 104.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 27.4,
+    "glucose": 136.4,
+    "bp": 94.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 34.4,
+    "glucose": 177.0,
+    "bp": 82.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 33.9,
+    "glucose": 168.8,
+    "bp": 86.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 39.7,
+    "glucose": 83.3,
+    "bp": 109.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 21.2,
+    "glucose": 183.7,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 23.7,
+    "glucose": 176.2,
+    "bp": 86.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 34.4,
+    "glucose": 100.8,
+    "bp": 108.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 32.2,
+    "glucose": 181.9,
+    "bp": 96.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 19.1,
+    "glucose": 88.1,
+    "bp": 72.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 35.1,
+    "glucose": 144.1,
+    "bp": 91.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 28.5,
+    "glucose": 112.1,
+    "bp": 102.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 29.3,
+    "glucose": 193.8,
+    "bp": 90.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 32.0,
+    "glucose": 82.4,
+    "bp": 117.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 25.3,
+    "glucose": 77.7,
+    "bp": 76.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 18.2,
+    "glucose": 182.6,
+    "bp": 75.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 23.1,
+    "glucose": 102.2,
+    "bp": 110.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 43,
+    "bmi": 27.2,
+    "glucose": 145.1,
+    "bp": 76.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 24.4,
+    "glucose": 79.8,
+    "bp": 107.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 17.3,
+    "glucose": 137.0,
+    "bp": 76.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 36.9,
+    "glucose": 129.1,
+    "bp": 89.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 15.1,
+    "glucose": 170.6,
+    "bp": 104.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 39.3,
+    "glucose": 152.5,
+    "bp": 101.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 16.6,
+    "glucose": 139.5,
+    "bp": 73.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 35.6,
+    "glucose": 134.3,
+    "bp": 79.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 23.4,
+    "glucose": 145.1,
+    "bp": 94.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 34.7,
+    "glucose": 186.2,
+    "bp": 105.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 17.5,
+    "glucose": 171.9,
+    "bp": 87.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 38.2,
+    "glucose": 90.5,
+    "bp": 87.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 25.7,
+    "glucose": 199.4,
+    "bp": 114.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 31.2,
+    "glucose": 90.7,
+    "bp": 116.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 17.3,
+    "glucose": 116.9,
+    "bp": 64.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 37.6,
+    "glucose": 91.5,
+    "bp": 83.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 33.1,
+    "glucose": 168.2,
+    "bp": 85.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 32.6,
+    "glucose": 70.1,
+    "bp": 88.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 29.8,
+    "glucose": 137.5,
+    "bp": 86.7,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 32.4,
+    "glucose": 176.2,
+    "bp": 119.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 32.4,
+    "glucose": 132.1,
+    "bp": 73.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 33.3,
+    "glucose": 83.3,
+    "bp": 78.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 22.5,
+    "glucose": 119.8,
+    "bp": 108.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 73,
+    "bmi": 18.3,
+    "glucose": 199.1,
+    "bp": 68.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 29.1,
+    "glucose": 149.3,
+    "bp": 69.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 33.1,
+    "glucose": 151.7,
+    "bp": 69.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 30.4,
+    "glucose": 127.5,
+    "bp": 73.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 17.5,
+    "glucose": 167.8,
+    "bp": 95.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 23.8,
+    "glucose": 125.8,
+    "bp": 107.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 21.9,
+    "glucose": 81.0,
+    "bp": 93.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 33.0,
+    "glucose": 107.0,
+    "bp": 116.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 36.2,
+    "glucose": 155.6,
+    "bp": 78.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 30.2,
+    "glucose": 94.5,
+    "bp": 83.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 16.4,
+    "glucose": 186.7,
+    "bp": 117.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 24.6,
+    "glucose": 101.3,
+    "bp": 98.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 28.2,
+    "glucose": 197.1,
+    "bp": 119.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 22.9,
+    "glucose": 120.3,
+    "bp": 110.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 24.1,
+    "glucose": 158.8,
+    "bp": 105.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 39.7,
+    "glucose": 79.5,
+    "bp": 95.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 21.6,
+    "glucose": 75.2,
+    "bp": 63.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 24.9,
+    "glucose": 107.2,
+    "bp": 102.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 25.4,
+    "glucose": 161.2,
+    "bp": 64.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 28.4,
+    "glucose": 89.8,
+    "bp": 65.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 27.8,
+    "glucose": 96.4,
+    "bp": 108.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 23.2,
+    "glucose": 146.2,
+    "bp": 105.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 32.0,
+    "glucose": 78.6,
+    "bp": 101.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 38.8,
+    "glucose": 101.0,
+    "bp": 74.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 25.9,
+    "glucose": 128.9,
+    "bp": 96.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 31.7,
+    "glucose": 155.5,
+    "bp": 70.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 18,
+    "bmi": 32.7,
+    "glucose": 161.2,
+    "bp": 69.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 23.7,
+    "glucose": 137.2,
+    "bp": 109.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 19.2,
+    "glucose": 86.5,
+    "bp": 106.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 33.3,
+    "glucose": 85.3,
+    "bp": 114.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 35.2,
+    "glucose": 105.4,
+    "bp": 63.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 39.4,
+    "glucose": 151.6,
+    "bp": 89.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 24.0,
+    "glucose": 134.9,
+    "bp": 94.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 18.9,
+    "glucose": 170.5,
+    "bp": 113.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 33.1,
+    "glucose": 99.7,
+    "bp": 90.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 36.5,
+    "glucose": 71.6,
+    "bp": 62.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 24.6,
+    "glucose": 89.5,
+    "bp": 115.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 15.9,
+    "glucose": 174.4,
+    "bp": 102.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 25.5,
+    "glucose": 111.8,
+    "bp": 85.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 23.0,
+    "glucose": 177.4,
+    "bp": 94.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 27.6,
+    "glucose": 187.3,
+    "bp": 70.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 27.9,
+    "glucose": 76.0,
+    "bp": 84.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 26.6,
+    "glucose": 106.7,
+    "bp": 110.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 17.2,
+    "glucose": 129.4,
+    "bp": 82.1,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 29.1,
+    "glucose": 109.5,
+    "bp": 97.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 24.2,
+    "glucose": 196.3,
+    "bp": 119.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 19.9,
+    "glucose": 187.1,
+    "bp": 105.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 18.8,
+    "glucose": 191.2,
+    "bp": 61.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 23.7,
+    "glucose": 179.1,
+    "bp": 112.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 23.4,
+    "glucose": 168.7,
+    "bp": 82.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 33.2,
+    "glucose": 83.5,
+    "bp": 91.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 25.5,
+    "glucose": 195.0,
+    "bp": 118.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 32.8,
+    "glucose": 82.1,
+    "bp": 115.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 36.1,
+    "glucose": 123.7,
+    "bp": 113.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 39.4,
+    "glucose": 81.0,
+    "bp": 65.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 30.9,
+    "glucose": 121.3,
+    "bp": 95.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 25.9,
+    "glucose": 195.3,
+    "bp": 74.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 36.3,
+    "glucose": 190.4,
+    "bp": 83.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 33.4,
+    "glucose": 111.3,
+    "bp": 76.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 38.6,
+    "glucose": 87.7,
+    "bp": 106.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 18.9,
+    "glucose": 91.4,
+    "bp": 88.0,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 18.0,
+    "glucose": 116.6,
+    "bp": 106.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 22.7,
+    "glucose": 104.5,
+    "bp": 67.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 35.2,
+    "glucose": 109.5,
+    "bp": 102.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 16.0,
+    "glucose": 178.7,
+    "bp": 79.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 32.8,
+    "glucose": 195.9,
+    "bp": 83.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 31.9,
+    "glucose": 103.8,
+    "bp": 119.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 38.8,
+    "glucose": 181.1,
+    "bp": 93.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 21.2,
+    "glucose": 130.1,
+    "bp": 108.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 18.0,
+    "glucose": 78.0,
+    "bp": 106.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 18.3,
+    "glucose": 177.1,
+    "bp": 82.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 38.4,
+    "glucose": 80.9,
+    "bp": 95.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 35.3,
+    "glucose": 72.8,
+    "bp": 63.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 31.1,
+    "glucose": 175.2,
+    "bp": 65.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 35.7,
+    "glucose": 113.1,
+    "bp": 62.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 16.3,
+    "glucose": 190.1,
+    "bp": 86.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 24.9,
+    "glucose": 73.8,
+    "bp": 101.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 23.8,
+    "glucose": 188.1,
+    "bp": 76.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 37.1,
+    "glucose": 74.5,
+    "bp": 97.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 31.2,
+    "glucose": 134.9,
+    "bp": 113.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 16.5,
+    "glucose": 106.4,
+    "bp": 68.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 31.1,
+    "glucose": 173.6,
+    "bp": 74.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 28.6,
+    "glucose": 72.5,
+    "bp": 82.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 24.0,
+    "glucose": 140.8,
+    "bp": 89.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 29.1,
+    "glucose": 111.8,
+    "bp": 76.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 23.0,
+    "glucose": 98.5,
+    "bp": 113.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 22.0,
+    "glucose": 175.1,
+    "bp": 88.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 34.2,
+    "glucose": 199.9,
+    "bp": 118.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 21.2,
+    "glucose": 101.3,
+    "bp": 92.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 37.9,
+    "glucose": 77.3,
+    "bp": 119.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 29.4,
+    "glucose": 197.7,
+    "bp": 83.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 36.0,
+    "glucose": 179.9,
+    "bp": 70.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 23.0,
+    "glucose": 166.0,
+    "bp": 81.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 15.7,
+    "glucose": 161.1,
+    "bp": 116.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 18.6,
+    "glucose": 193.3,
+    "bp": 110.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 37.0,
+    "glucose": 134.0,
+    "bp": 78.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 15.9,
+    "glucose": 77.3,
+    "bp": 96.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 28.2,
+    "glucose": 70.1,
+    "bp": 115.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 35.2,
+    "glucose": 114.3,
+    "bp": 70.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 36.1,
+    "glucose": 112.1,
+    "bp": 61.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 32.6,
+    "glucose": 88.4,
+    "bp": 66.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 36.5,
+    "glucose": 194.9,
+    "bp": 82.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 31.6,
+    "glucose": 146.2,
+    "bp": 80.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 38,
+    "bmi": 18.4,
+    "glucose": 90.5,
+    "bp": 116.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 31.0,
+    "glucose": 133.3,
+    "bp": 79.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 63,
+    "bmi": 39.2,
+    "glucose": 160.2,
+    "bp": 115.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 23.9,
+    "glucose": 156.5,
+    "bp": 108.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 22.7,
+    "glucose": 159.5,
+    "bp": 67.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 15.0,
+    "glucose": 161.3,
+    "bp": 94.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 39.9,
+    "glucose": 195.5,
+    "bp": 61.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 23.0,
+    "glucose": 175.1,
+    "bp": 96.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 29.1,
+    "glucose": 191.8,
+    "bp": 68.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 16.9,
+    "glucose": 115.1,
+    "bp": 79.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 37.1,
+    "glucose": 81.5,
+    "bp": 102.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 33.2,
+    "glucose": 113.6,
+    "bp": 60.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 21.2,
+    "glucose": 78.8,
+    "bp": 75.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 33.0,
+    "glucose": 76.3,
+    "bp": 86.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 39.2,
+    "glucose": 185.0,
+    "bp": 89.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 23.8,
+    "glucose": 118.8,
+    "bp": 109.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 36.6,
+    "glucose": 154.6,
+    "bp": 101.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 26.3,
+    "glucose": 173.9,
+    "bp": 62.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 19,
+    "bmi": 23.0,
+    "glucose": 193.7,
+    "bp": 64.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 37.2,
+    "glucose": 90.9,
+    "bp": 64.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 37.5,
+    "glucose": 82.1,
+    "bp": 95.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 37.3,
+    "glucose": 161.6,
+    "bp": 85.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 19.1,
+    "glucose": 185.7,
+    "bp": 69.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 23.3,
+    "glucose": 196.7,
+    "bp": 84.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 33.1,
+    "glucose": 164.9,
+    "bp": 75.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 22.4,
+    "glucose": 82.5,
+    "bp": 83.6,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 36.0,
+    "glucose": 90.0,
+    "bp": 81.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 17.2,
+    "glucose": 177.1,
+    "bp": 97.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 20.0,
+    "glucose": 73.3,
+    "bp": 70.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 39.4,
+    "glucose": 131.6,
+    "bp": 66.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 24.9,
+    "glucose": 133.6,
+    "bp": 99.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 31.0,
+    "glucose": 120.4,
+    "bp": 82.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 24.2,
+    "glucose": 128.0,
+    "bp": 75.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 21.6,
+    "glucose": 178.8,
+    "bp": 93.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 33.8,
+    "glucose": 156.8,
+    "bp": 65.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 35.2,
+    "glucose": 123.8,
+    "bp": 105.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 28.8,
+    "glucose": 179.3,
+    "bp": 109.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 39.1,
+    "glucose": 159.3,
+    "bp": 116.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 54,
+    "bmi": 37.0,
+    "glucose": 131.9,
+    "bp": 64.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 36.3,
+    "glucose": 74.5,
+    "bp": 94.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 35.0,
+    "glucose": 158.1,
+    "bp": 97.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 38.7,
+    "glucose": 128.4,
+    "bp": 116.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 39.3,
+    "glucose": 175.1,
+    "bp": 67.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 17.0,
+    "glucose": 158.8,
+    "bp": 72.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 30.7,
+    "glucose": 178.4,
+    "bp": 75.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 33.2,
+    "glucose": 175.0,
+    "bp": 65.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 24.9,
+    "glucose": 112.4,
+    "bp": 76.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 37.9,
+    "glucose": 71.6,
+    "bp": 102.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 28.1,
+    "glucose": 124.5,
+    "bp": 84.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 29.2,
+    "glucose": 145.7,
+    "bp": 117.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 38.1,
+    "glucose": 143.1,
+    "bp": 66.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 36.7,
+    "glucose": 184.4,
+    "bp": 112.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 24.6,
+    "glucose": 133.1,
+    "bp": 96.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 19.3,
+    "glucose": 122.4,
+    "bp": 97.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 32.3,
+    "glucose": 75.0,
+    "bp": 113.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 32.3,
+    "glucose": 76.4,
+    "bp": 88.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 37.4,
+    "glucose": 72.6,
+    "bp": 109.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 22.8,
+    "glucose": 179.6,
+    "bp": 111.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 17.5,
+    "glucose": 183.0,
+    "bp": 68.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 33.6,
+    "glucose": 170.6,
+    "bp": 79.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 25.4,
+    "glucose": 153.9,
+    "bp": 71.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 31,
+    "bmi": 37.8,
+    "glucose": 122.9,
+    "bp": 89.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 36.7,
+    "glucose": 176.7,
+    "bp": 90.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 28,
+    "bmi": 16.6,
+    "glucose": 162.2,
+    "bp": 84.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 36.3,
+    "glucose": 184.3,
+    "bp": 61.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 36.9,
+    "glucose": 96.1,
+    "bp": 63.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 26.4,
+    "glucose": 189.3,
+    "bp": 102.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 24.2,
+    "glucose": 130.3,
+    "bp": 83.8,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 77,
+    "bmi": 18.1,
+    "glucose": 74.0,
+    "bp": 82.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 26.2,
+    "glucose": 194.9,
+    "bp": 88.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 53,
+    "bmi": 23.7,
+    "glucose": 91.3,
+    "bp": 113.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 35.8,
+    "glucose": 81.8,
+    "bp": 61.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 19.1,
+    "glucose": 144.4,
+    "bp": 117.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 20.5,
+    "glucose": 99.3,
+    "bp": 72.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 25.2,
+    "glucose": 72.6,
+    "bp": 106.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 32.1,
+    "glucose": 131.6,
+    "bp": 67.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 30.0,
+    "glucose": 71.1,
+    "bp": 75.1,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 38.6,
+    "glucose": 162.7,
+    "bp": 102.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 25.6,
+    "glucose": 118.9,
+    "bp": 80.9,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 20.5,
+    "glucose": 109.3,
+    "bp": 91.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 24.9,
+    "glucose": 83.3,
+    "bp": 90.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 39.2,
+    "glucose": 179.1,
+    "bp": 93.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 30.2,
+    "glucose": 108.8,
+    "bp": 66.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 22,
+    "bmi": 23.4,
+    "glucose": 105.9,
+    "bp": 79.5,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 35,
+    "bmi": 21.5,
+    "glucose": 162.4,
+    "bp": 113.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 19.7,
+    "glucose": 137.2,
+    "bp": 74.4,
+    "label": "Tidak Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 35.1,
+    "glucose": 174.3,
+    "bp": 96.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 23.0,
+    "glucose": 88.2,
+    "bp": 61.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 39.9,
+    "glucose": 103.7,
+    "bp": 85.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 42,
+    "bmi": 33.4,
+    "glucose": 145.8,
+    "bp": 119.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 70,
+    "bmi": 19.7,
+    "glucose": 164.5,
+    "bp": 73.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 52,
+    "bmi": 31.0,
+    "glucose": 131.8,
+    "bp": 116.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 40,
+    "bmi": 27.7,
+    "glucose": 179.9,
+    "bp": 110.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 29.0,
+    "glucose": 108.2,
+    "bp": 88.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 65,
+    "bmi": 21.5,
+    "glucose": 175.1,
+    "bp": 105.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 29,
+    "bmi": 38.7,
+    "glucose": 186.9,
+    "bp": 99.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 32,
+    "bmi": 23.9,
+    "glucose": 166.7,
+    "bp": 78.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 68,
+    "bmi": 37.2,
+    "glucose": 118.3,
+    "bp": 95.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 36.3,
+    "glucose": 131.2,
+    "bp": 112.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 29.5,
+    "glucose": 150.7,
+    "bp": 88.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 27.5,
+    "glucose": 182.8,
+    "bp": 82.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 37,
+    "bmi": 25.3,
+    "glucose": 183.2,
+    "bp": 69.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 30,
+    "bmi": 23.6,
+    "glucose": 198.3,
+    "bp": 113.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 18.6,
+    "glucose": 182.1,
+    "bp": 70.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 23,
+    "bmi": 27.2,
+    "glucose": 152.0,
+    "bp": 70.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 58,
+    "bmi": 16.5,
+    "glucose": 128.8,
+    "bp": 72.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 19.2,
+    "glucose": 169.4,
+    "bp": 89.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 66,
+    "bmi": 34.5,
+    "glucose": 86.8,
+    "bp": 86.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 45,
+    "bmi": 25.1,
+    "glucose": 195.5,
+    "bp": 83.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 28.3,
+    "glucose": 165.0,
+    "bp": 117.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 23.1,
+    "glucose": 178.3,
+    "bp": 71.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 61,
+    "bmi": 15.1,
+    "glucose": 165.4,
+    "bp": 73.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 74,
+    "bmi": 23.6,
+    "glucose": 86.8,
+    "bp": 83.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 55,
+    "bmi": 22.7,
+    "glucose": 78.5,
+    "bp": 62.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 78,
+    "bmi": 22.3,
+    "glucose": 164.6,
+    "bp": 95.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 39,
+    "bmi": 25.8,
+    "glucose": 159.3,
+    "bp": 68.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 75,
+    "bmi": 27.3,
+    "glucose": 167.5,
+    "bp": 69.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 76,
+    "bmi": 38.0,
+    "glucose": 122.4,
+    "bp": 73.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 39.6,
+    "glucose": 97.5,
+    "bp": 61.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 19.2,
+    "glucose": 117.7,
+    "bp": 99.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 20,
+    "bmi": 24.4,
+    "glucose": 153.2,
+    "bp": 106.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 57,
+    "bmi": 16.2,
+    "glucose": 199.3,
+    "bp": 99.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 59,
+    "bmi": 35.9,
+    "glucose": 76.3,
+    "bp": 66.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 24.5,
+    "glucose": 141.1,
+    "bp": 88.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 20.1,
+    "glucose": 159.1,
+    "bp": 60.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 44,
+    "bmi": 31.5,
+    "glucose": 156.1,
+    "bp": 76.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 56,
+    "bmi": 32.5,
+    "glucose": 124.4,
+    "bp": 113.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 33.0,
+    "glucose": 85.3,
+    "bp": 66.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 27.4,
+    "glucose": 149.2,
+    "bp": 106.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 28.1,
+    "glucose": 96.2,
+    "bp": 102.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 36,
+    "bmi": 19.0,
+    "glucose": 141.3,
+    "bp": 114.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 38.3,
+    "glucose": 113.0,
+    "bp": 60.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 60,
+    "bmi": 17.2,
+    "glucose": 84.4,
+    "bp": 94.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 18.7,
+    "glucose": 81.7,
+    "bp": 90.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 64,
+    "bmi": 33.1,
+    "glucose": 187.6,
+    "bp": 98.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 47,
+    "bmi": 39.7,
+    "glucose": 108.5,
+    "bp": 87.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 35.3,
+    "glucose": 183.6,
+    "bp": 111.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 35.0,
+    "glucose": 110.7,
+    "bp": 104.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 24,
+    "bmi": 36.3,
+    "glucose": 185.7,
+    "bp": 60.6,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 26,
+    "bmi": 31.6,
+    "glucose": 92.2,
+    "bp": 81.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 46,
+    "bmi": 38.9,
+    "glucose": 104.9,
+    "bp": 104.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 41,
+    "bmi": 35.4,
+    "glucose": 93.8,
+    "bp": 84.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 79,
+    "bmi": 26.4,
+    "glucose": 178.6,
+    "bp": 101.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 35.0,
+    "glucose": 154.4,
+    "bp": 107.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 25,
+    "bmi": 18.3,
+    "glucose": 164.4,
+    "bp": 118.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 72,
+    "bmi": 19.0,
+    "glucose": 124.1,
+    "bp": 95.4,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 69,
+    "bmi": 29.2,
+    "glucose": 127.0,
+    "bp": 96.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 67,
+    "bmi": 24.0,
+    "glucose": 73.7,
+    "bp": 101.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 71,
+    "bmi": 33.2,
+    "glucose": 185.9,
+    "bp": 89.0,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 17.8,
+    "glucose": 123.5,
+    "bp": 62.8,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 34,
+    "bmi": 31.4,
+    "glucose": 71.6,
+    "bp": 112.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 51,
+    "bmi": 34.2,
+    "glucose": 145.0,
+    "bp": 93.9,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 80,
+    "bmi": 38.9,
+    "glucose": 183.5,
+    "bp": 91.1,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 62,
+    "bmi": 32.5,
+    "glucose": 82.4,
+    "bp": 99.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 27.0,
+    "glucose": 156.3,
+    "bp": 98.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 27,
+    "bmi": 36.0,
+    "glucose": 142.6,
+    "bp": 119.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 21,
+    "bmi": 15.3,
+    "glucose": 191.5,
+    "bp": 90.3,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 48,
+    "bmi": 36.3,
+    "glucose": 183.0,
+    "bp": 64.5,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 49,
+    "bmi": 23.0,
+    "glucose": 113.0,
+    "bp": 76.7,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 50,
+    "bmi": 20.6,
+    "glucose": 153.6,
+    "bp": 84.2,
+    "label": "Berisiko Diabetes"
+  },
+  {
+    "age": 33,
+    "bmi": 17.0,
+    "glucose": 127.7,
+    "bp": 94.4,
+    "label": "Berisiko Diabetes"
+  }
+]
