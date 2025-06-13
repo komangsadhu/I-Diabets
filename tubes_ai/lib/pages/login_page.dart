@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'home_page.dart'; // Pastikan ini menunjuk ke HomePageSensor
+import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -49,33 +49,85 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Login")),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          children: [
-            TextField(
-              controller: _emailController,
-              decoration: const InputDecoration(
-                labelText: "Email",
-                border: OutlineInputBorder(),
+      backgroundColor: const Color(0xFFF1F4F7),
+      body: Center(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.symmetric(horizontal: 24.0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Icon(
+                Icons.medical_services_outlined,
+                size: 80,
+                color: Colors.teal,
               ),
-            ),
-            const SizedBox(height: 10),
-            TextField(
-              controller: _passwordController,
-              obscureText: true,
-              decoration: const InputDecoration(
-                labelText: "Password",
-                border: OutlineInputBorder(),
+              const SizedBox(height: 16),
+              const Text(
+                "Selamat Datang 👋",
+                style: TextStyle(
+                  fontSize: 26,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.teal,
+                ),
               ),
-            ),
-            const SizedBox(height: 20),
-            ElevatedButton(onPressed: _login, child: const Text("Login")),
-            const SizedBox(height: 10),
-            if (errorMessage.isNotEmpty)
-              Text(errorMessage, style: const TextStyle(color: Colors.red)),
-          ],
+              const SizedBox(height: 4),
+              const Text(
+                "Silakan login untuk melanjutkan",
+                style: TextStyle(fontSize: 16, color: Colors.black54),
+              ),
+              const SizedBox(height: 32),
+              TextField(
+                controller: _emailController,
+                decoration: InputDecoration(
+                  prefixIcon: const Icon(Icons.email),
+                  labelText: "Email",
+                  filled: true,
+                  fillColor: Colors.white,
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 16),
+              TextField(
+                controller: _passwordController,
+                obscureText: true,
+                decoration: InputDecoration(
+                  prefixIcon: const Icon(Icons.lock),
+                  labelText: "Password",
+                  filled: true,
+                  fillColor: Colors.white,
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 24),
+              SizedBox(
+                width: double.infinity,
+                height: 48,
+                child: ElevatedButton.icon(
+                  onPressed: _login,
+                  icon: const Icon(Icons.login),
+                  label: const Text("Masuk"),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.teal,
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                  ),
+                ),
+              ),
+              if (errorMessage.isNotEmpty) ...[
+                const SizedBox(height: 16),
+                Text(
+                  errorMessage,
+                  style: const TextStyle(color: Colors.red),
+                  textAlign: TextAlign.center,
+                ),
+              ],
+            ],
+          ),
         ),
       ),
     );

@@ -19,10 +19,10 @@ class BluetoothService {
             onDataReceived(incoming);
           })
           .onDone(() {
-            print('🔌 Disconnected from $address');
+            print(' Disconnected from $address');
           });
     } catch (e) {
-      print('❌ Connection failed: $e');
+      print(' Connection failed: $e');
     }
   }
 

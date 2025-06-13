@@ -1,12 +1,21 @@
-import 'package:firebase_core/firebase_core.dart'; // Import Firebase Core
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:permission_handler/permission_handler.dart'; // Tambahkan ini
 import 'pages/login_page.dart';
 
 void main() async {
-  // Pastikan Firebase diinisialisasi terlebih dahulu sebelum aplikasi berjalan
-  WidgetsFlutterBinding.ensureInitialized(); // Memastikan binding siap
-  await Firebase.initializeApp(); // Inisialisasi Firebase
-  runApp(const DiabetesApp()); // Jalankan aplikasi setelah Firebase siap
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // Inisialisasi Firebase
+  await Firebase.initializeApp();
+
+  // ====== PERMINTAAN IZIN BLUETOOTH ======
+  await Permission.bluetooth.request(); // Untuk Android <13
+  await Permission.bluetoothScan.request(); // Untuk Android 12+
+  await Permission.bluetoothConnect.request(); // Untuk Android 12+
+  await Permission.location.request(); // Kadang tetap dibutuhkan untuk pairing
+
+  runApp(const DiabetesApp());
 }
 
 class DiabetesApp extends StatelessWidget {
@@ -21,7 +30,7 @@ class DiabetesApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
         useMaterial3: false,
       ),
-      home: const LoginPage(), // Tampilkan LoginPage saat pertama kali
+      home: const LoginPage(), // Tetap ke halaman login
     );
   }
 }

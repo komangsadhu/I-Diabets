@@ -1,0 +1,12 @@
+flutter_native_splash:
+  image: assets/splash.png
+  color: "#ffffff" # light mode background (putih)
+  color_dark: "#ffffff" # dark mode background (hijau, silakan sesuaikan kode warnanya)
+
+  android_12:
+    image: assets/splash.png # bisa sama dengan splash.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/splash.png
+    icon_background_color_dark: "#ffffff"
+    color: "#ffffff"
+    color_dark: "#ffffff"
